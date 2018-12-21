@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b8a78efdfc8d1d0a027a74bc3e123cea.js"
+  "/precache-manifest.1ff5ca109c15e111759c09e3eb04ecef.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "device-managerment"});
